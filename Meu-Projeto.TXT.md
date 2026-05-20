@@ -1,6 +1,6 @@
 # 📚 Tutorial: Criação de Repositório no GitHub com GitHub Desktop
 
-Primeiro teste de repositório GitHub
+
 
 
 > **Curso:** Sistemas para Internet – IFMT Campus Cuiabá Cel. Octayde Jorge da Silva
