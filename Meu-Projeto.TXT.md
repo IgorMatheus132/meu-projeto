@@ -26,7 +26,7 @@ O **controle de versões** é uma prática essencial no desenvolvimento de softw
 ✅ Manter histórico de modificações  
 ✅ Facilitar trabalho colaborativo entre desenvolvedores  
 
-O **GitHub** é a plataforma mais utilizada para hospedagem e gerenciamento de projetos. Este tutorial apresenta, de forma clara e acessível, como criar um repositório e fazer o primeiro commit usando **GitHub Desktop**.
+O **GitHub** é a plataforma mais utilizada para hospedagem e gerenciamento de projetos. Este tutorial apresenta, de forma clara e acessível, como criar um repositório e fazer o primeiro commit usando o GitHub Desktop.
 
 ---
 
@@ -62,6 +62,9 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 
 ![GitHub Homepage](https://github.com/images/modules/logos_page/GitHub-Mark.png)
 
+**Imagem do resultado:**
+![Passo 1 - Homepage GitHub](./images/passo1-homepage.png)
+
 ---
 
 ### 📌 Passo 2: Realize o Login na Plataforma
@@ -76,6 +79,9 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 **✅ Resultado Esperado:**
 - O sistema direciona o usuário para a página principal da conta
 
+**Imagem do resultado:**
+![Passo 2 - Tela de Login](./images/passo2-login.png)
+
 ---
 
 ### 📌 Passo 3: Crie um Novo Repositório
@@ -87,6 +93,9 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 2. Selecione "New Repository" (Novo Repositório)
 ```
 
+**Imagem do menu:**
+![Passo 3.1 - Menu Novo Repositório](./images/passo3-1-menu.png)
+
 #### 3.2 - Preencha os Campos
 
 | Campo | Descrição | Obrigatório |
@@ -95,11 +104,17 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 | **Description** | Descrição do projeto | ❌ Opcional |
 | **Public / Private** | Visibilidade do repositório | ✅ Sim |
 
+**Imagem do formulário:**
+![Passo 3.2 - Formulário de Criação](./images/passo3-2-formulario.png)
+
 #### 3.3 - Marque a Opção
 
 ```
 ☑ Add a README file (Adicionar um arquivo README)
 ```
+
+**Imagem da opção:**
+![Passo 3.3 - Checkbox README](./images/passo3-3-readme.png)
 
 #### 3.4 - Finalize
 
@@ -109,6 +124,9 @@ Clique em "Create repository" (Criar Repositório)
 
 **✅ Resultado Esperado:**
 - Novo repositório criado com sucesso
+
+**Imagem do resultado:**
+![Passo 3.4 - Repositório Criado](./images/passo3-4-criado.png)
 
 ---
 
@@ -123,6 +141,9 @@ Clique em "Create repository" (Criar Repositório)
 **✅ Resultado Esperado:**
 - Tela principal do GitHub Desktop será exibida
 
+**Imagem do resultado:**
+![Passo 4 - GitHub Desktop Aberto](./images/passo4-github-desktop.png)
+
 ---
 
 ### 📌 Passo 5: Clone o Repositório Criado
@@ -133,6 +154,9 @@ Clique em "Create repository" (Criar Repositório)
 1. Clique em: File → Clone Repository (Clonar Repositório)
 ```
 
+**Imagem do menu:**
+![Passo 5.1 - Menu Clone](./images/passo5-1-clone-menu.png)
+
 #### 5.2 - Selecione e Configure
 
 ```
@@ -141,8 +165,14 @@ Clique em "Create repository" (Criar Repositório)
 3. Clique em "Clone" (Clonar)
 ```
 
+**Imagem da janela de clone:**
+![Passo 5.2 - Diálogo de Clone](./images/passo5-2-clone-dialog.png)
+
 **✅ Resultado Esperado:**
 - Repositório copiado para o computador local
+
+**Imagem do resultado:**
+![Passo 5 - Repositório Clonado](./images/passo5-clonado.png)
 
 ---
 
@@ -154,12 +184,18 @@ Clique em "Create repository" (Criar Repositório)
 1. Crie um arquivo chamado: meu-projeto.txt
 ```
 
+**Imagem do arquivo criado:**
+![Passo 6.1 - Arquivo Criado](./images/passo6-1-arquivo.png)
+
 #### 6.2 - Adicione Conteúdo
 
 ```
 Digite a seguinte mensagem:
 "Primeiro teste de repositório GitHub"
 ```
+
+**Imagem do conteúdo:**
+![Passo 6.2 - Conteúdo do Arquivo](./images/passo6-2-conteudo.png)
 
 #### 6.3 - Salve o Arquivo
 
@@ -174,6 +210,9 @@ Salve o arquivo na pasta clonada do repositório
 2. Você verá o arquivo criado na aba "Changes"
 ```
 
+**Imagem da aba Changes:**
+![Passo 6.4 - Aba Changes](./images/passo6-4-changes.png)
+
 #### 6.5 - Realize o Commit
 
 ```
@@ -186,14 +225,23 @@ Salve o arquivo na pasta clonada do repositório
 3. Clique em "Commit to main" (Commit na ramificação principal)
 ```
 
+**Imagem do formulário de commit:**
+![Passo 6.5 - Formulário de Commit](./images/passo6-5-commit.png)
+
 #### 6.6 - Envie para o Repositório Online
 
 ```
 1. Clique em "Push origin" (Enviar alterações)
 ```
 
+**Imagem do botão Push:**
+![Passo 6.6 - Botão Push Origin](./images/passo6-6-push.png)
+
 **✅ Resultado Esperado:**
 - Alterações enviadas ao repositório online com sucesso
+
+**Imagem do resultado:**
+![Passo 6 - Push Concluído](./images/passo6-push-concluido.png)
 
 ---
 
@@ -243,6 +291,9 @@ Para confirmar que tudo funcionou corretamente:
 4. Valide a data e hora do push
 ```
 
+**Imagem de verificação no GitHub:**
+![Verificação - Repositório Online](./images/verificacao-repositorio.png)
+
 ---
 
 ## 📚 Estrutura de Pastas Recomendada
@@ -250,7 +301,25 @@ Para confirmar que tudo funcionou corretamente:
 ```
 seu-repositorio/
 ├── README.md                    # Documentação principal
-├── TUTORIAL_GITHUB_DESKTOP.md   # Este arquivo
+├── Meu-Projeto.TXT.md           # Tutorial
+├── images/                      # Pasta de imagens do tutorial
+│   ├── passo1-homepage.png
+│   ├── passo2-login.png
+│   ├── passo3-1-menu.png
+│   ├── passo3-2-formulario.png
+│   ├── passo3-3-readme.png
+│   ├── passo3-4-criado.png
+│   ├── passo4-github-desktop.png
+│   ├── passo5-1-clone-menu.png
+│   ├── passo5-2-clone-dialog.png
+│   ├── passo5-clonado.png
+│   ├── passo6-1-arquivo.png
+│   ├── passo6-2-conteudo.png
+│   ├── passo6-4-changes.png
+│   ├── passo6-5-commit.png
+│   ├── passo6-6-push.png
+│   ├── passo6-push-concluido.png
+│   └── verificacao-repositorio.png
 ├── src/                         # Código-fonte
 │   ├── index.js
 │   ├── components/
@@ -299,6 +368,7 @@ Se encontrar problemas durante o processo:
 | Data | Versão | Alterações |
 |------|--------|-----------|
 | 20/05/2026 | 1.0 | Criação do tutorial inicial |
+| 20/05/2026 | 1.1 | Adição de referências a imagens |
 
 ---
 
