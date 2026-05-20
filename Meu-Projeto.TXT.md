@@ -8,8 +8,8 @@
 
 | Nome | Papel |
 |------|-------|
-| Aline Ramos Ferreira | Desenvolvedor |
-| Esthefan Leopoldo Amorim Da Silva | Desenvolvedora |
+| Aline Ramos Ferreira | Desenvolvedora |
+| Esthefan Leopoldo Amorim Da Silva | Desenvolvedor |
 | Igor Matheus Pinheiro Queiroz | Desenvolvedor |
 | Thiago Machado De Carvalho | Desenvolvedor |
 
