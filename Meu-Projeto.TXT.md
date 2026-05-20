@@ -224,10 +224,6 @@ Salve o arquivo na pasta clonada do repositório
    
 3. Clique em "Commit to main" (Commit na ramificação principal)
 ```
-
-**Imagem do formulário de commit:**
-![Passo 6.5 - Formulário de Commit](./images/passo6-5-commit.png)
-
 #### 6.6 - Envie para o Repositório Online
 
 ```
