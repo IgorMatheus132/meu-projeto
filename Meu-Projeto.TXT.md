@@ -1,8 +1,5 @@
 # 📚 Tutorial: Criação de Repositório no GitHub com GitHub Desktop
 
-Primeiro teste de repositório GitHub
-
-
 > **Curso:** Sistemas para Internet – IFMT Campus Cuiabá Cel. Octayde Jorge da Silva
 
 ---
@@ -11,10 +8,10 @@ Primeiro teste de repositório GitHub
 
 | Nome | Papel |
 |------|-------|
-| Igor | Desenvolvedor |
-| Aline | Desenvolvedora |
-| Emerson | Desenvolvedor |
-| Thiago | Desenvolvedor |
+| Aline Ramos Ferreira | Desenvolvedor |
+| Esthefan Leopoldo Amorim Da Silva | Desenvolvedora |
+| Igor Matheus Pinheiro Queiroz | Desenvolvedor |
+| Thiago Machado De Carvalho | Desenvolvedor |
 
 ---
 
@@ -340,7 +337,7 @@ seu-repositorio/
 ├── tests/                       # Testes
 ├── .gitignore                   # Arquivos ignorados
 ├── LICENSE                      # Licença do projeto
-└── package.json                 # Dependências (se aplssicável)
+└── package.json                 # Dependências (se aplicável)
 ```
 
 ---
