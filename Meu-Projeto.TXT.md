@@ -64,9 +64,8 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 
 **Imagem do resultado:**
 ![Passo 1 - Homepage GitHub]**Imagem do resultado:**
-<p align="center">
   <img src="./imagens/Passo1-homepage.png" width="500" alt="Passo 1 - Homepage GitHub">
-</p>
+
 
 ---
 
