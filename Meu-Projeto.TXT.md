@@ -340,7 +340,7 @@ seu-repositorio/
 ├── tests/                       # Testes
 ├── .gitignore                   # Arquivos ignorados
 ├── LICENSE                      # Licença do projeto
-└── package.json                 # Dependências (se aplicável)
+└── package.json                 # Dependências (se aplssicável)
 ```
 
 ---
