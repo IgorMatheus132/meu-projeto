@@ -125,9 +125,6 @@ Clique em "Create repository" (Criar Repositório)
 **✅ Resultado Esperado:**
 - Novo repositório criado com sucesso
 
-**Imagem do resultado:**
-![Passo 3.4 - Repositório Criado](./images/passo3-4-criado.png)
-
 ---
 
 ### 📌 Passo 4: Abra o GitHub Desktop
@@ -171,9 +168,6 @@ Clique em "Create repository" (Criar Repositório)
 **✅ Resultado Esperado:**
 - Repositório copiado para o computador local
 
-**Imagem do resultado:**
-![Passo 5 - Repositório Clonado](./images/passo5-clonado.png)
-
 ---
 
 ### 📌 Passo 6: Realize o Primeiro Commit
@@ -210,11 +204,6 @@ Salve o arquivo na pasta clonada do repositório
 2. Você verá o arquivo criado na aba "Changes"
 ```
 
-**Imagem da aba Changes:**
-![Passo 6.4 - Aba Changes](./images/passo6-4-changes.png)
-
-#### 6.5 - Realize o Commit
-
 ```
 1. No campo "Summary" (Resumo), digite:
    "Primeiro commit"
@@ -225,8 +214,8 @@ Salve o arquivo na pasta clonada do repositório
 3. Clique em "Commit to main" (Commit na ramificação principal)
 ```
 
-**Imagem do formulário de commit:**
-![Passo 6.5 - Formulário de Commit](./images/passo6-5-commit.png)
+**Imagem da aba Changes:**
+![Passo 6.4 - Aba Changes](./images/passo6-4-changes.png)
 
 #### 6.6 - Envie para o Repositório Online
 
@@ -235,13 +224,11 @@ Salve o arquivo na pasta clonada do repositório
 ```
 
 **Imagem do botão Push:**
-![Passo 6.6 - Botão Push Origin](./images/passo6-6-push.png)
+![Passo 6.5 - Botão Push Origin](./images/passo6-6-push.png)
 
 **✅ Resultado Esperado:**
 - Alterações enviadas ao repositório online com sucesso
 
-**Imagem do resultado:**
-![Passo 6 - Push Concluído](./images/passo6-push-concluido.png)
 
 ---
 
