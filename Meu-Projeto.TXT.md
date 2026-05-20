@@ -82,7 +82,8 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 - O sistema direciona o usuário para a página principal da conta
 
 **Imagem do resultado:**
-![Passo 2 - Tela de Login](./imagens/Passo2-login.png)
+![Passo 2 - Tela de Login]**Imagem do resultado:**
+  <img src="./imagens/Passo2-login.png" width="500" alt="Passo 2 - Tela de Login">
 
 ---
 
@@ -96,7 +97,9 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 ```
 
 **Imagem do menu:**
-![Passo 3.1 - Menu Novo Repositório](./imagens/passo3-1-menu.png)
+![Passo 3.1 - Menu Novo Repositório]**Imagem do resultado:**
+  <img src="./imagens/passo3-1-menu.png" width="500" alt="Passo 3.1 - Menu Novo Repositório GitHub">
+
 
 #### 3.2 - Preencha os Campos
 
@@ -107,7 +110,9 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 | **Public / Private** | Visibilidade do repositório | ✅ Sim |
 
 **Imagem do formulário:**
-![Passo 3.2 - Formulário de Criação](./imagens/passo3-2-formulario.png)
+![Passo 3.2 - Formulário de Criação]**Imagem do resultado:**
+  <img src="./imagens/passo3-2-formulario.png" width="500" alt="Passo 3.2 - Formulário de Criação">
+
 
 #### 3.3 - Marque a Opção
 
@@ -116,7 +121,9 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 ```
 
 **Imagem da opção:**
-![Passo 3.3 - Checkbox README](./imagens/passo3-3-readme.png)
+![Passo 3.3 - Checkbox README]**Imagem do resultado:**
+  <img src="./imagens/passo3-3-readme.png" width="500" alt="Passo 3.3 - README GitHub">
+
 
 #### 3.4 - Finalize
 
@@ -141,7 +148,9 @@ Clique em "Create repository" (Criar Repositório)
 - Tela principal do GitHub Desktop será exibida
 
 **Imagem do resultado:**
-![Passo 4 - GitHub Desktop Aberto](./imagens/passo4-github-desktop.png)
+![Passo 4 - GitHub Desktop Aberto]**Imagem do resultado:**
+  <img src="./imagens/passo4-github-desktop.png" width="500" alt="Passo 4 - GitHub Desktop GitHub">
+
 
 ---
 
@@ -154,7 +163,9 @@ Clique em "Create repository" (Criar Repositório)
 ```
 
 **Imagem do menu:**
-![Passo 5.1 - Menu Clone](./imagens/passo5-1-clone-menu.png)
+![Passo 5.1 - Menu Clone]**Imagem do resultado:**
+  <img src="./imagens/passo5-1-clone-menu.png" width="500" alt="Passo 5.1 - Menu Clone GitHub">
+
 
 #### 5.2 - Selecione e Configure
 
@@ -165,7 +176,9 @@ Clique em "Create repository" (Criar Repositório)
 ```
 
 **Imagem da janela de clone:**
-![Passo 5.2 - Diálogo de Clone](./imagens/passo5-2-clone-dialog.png)
+![Passo 5.2 - Diálogo de Clone]**Imagem do resultado:**
+  <img src="./imagens/passo5-2-clone-dialog.png" width="500" alt="Passo 5.2 - Diálogo de Clone GitHub">
+
 
 **✅ Resultado Esperado:**
 - Repositório copiado para o computador local
@@ -181,7 +194,9 @@ Clique em "Create repository" (Criar Repositório)
 ```
 
 **Imagem do arquivo criado:**
-![Passo 6.1 - Arquivo Criado](./imagens/passo6-1-arquivo.png)
+![Passo 6.1 - Arquivo Criado]**Imagem do resultado:**
+  <img src="./imagens/passo6-1-arquivo.png" width="500" alt="Passo 6.1 - Arquivo Criado GitHub">
+
 
 #### 6.2 - Adicione Conteúdo
 
@@ -191,7 +206,9 @@ Digite a seguinte mensagem:
 ```
 
 **Imagem do conteúdo:**
-![Passo 6.2 - Conteúdo do Arquivo](./imagens/passo6-2-conteudo.png)
+![Passo 6.2 - Conteúdo do Arquivo]**Imagem do resultado:**
+  <img src="./imagens/passo6-2-conteudo.png" width="500" alt="Passo 6.2 - Conteúdo do Arquivo GitHub">
+
 
 #### 6.3 - Salve o Arquivo
 
@@ -217,7 +234,9 @@ Salve o arquivo na pasta clonada do repositório
 ```
 
 **Imagem da aba Changes:**
-![Passo 6.4 - Aba Changes](./imagens/passo6-4-changes.png)
+![Passo 6.4 - Aba Changes]**Imagem do resultado:**
+  <img src="./imagens/passo6-4-changes.png" width="500" alt="Passo 6.4 - Aba Changes GitHub">
+
 
 #### 6.6 - Envie para o Repositório Online
 
@@ -226,7 +245,9 @@ Salve o arquivo na pasta clonada do repositório
 ```
 
 **Imagem do botão Push:**
-![Passo 6.5 - Botão Push Origin](./imagens/passo6-5-push.png)
+![Passo 6.5 - Botão Push Origin]**Imagem do resultado:**
+  <img src="./imagens/passo6-5-push.png" width="500" alt="Passo 6.5 - Botão Push Origin GitHub">
+
 
 **✅ Resultado Esperado:**
 - Alterações enviadas ao repositório online com sucesso
@@ -281,7 +302,9 @@ Para confirmar que tudo funcionou corretamente:
 ```
 
 **Imagem de verificação no GitHub:**
-![Verificação - Repositório Online](./imagens/verificacao-repositorio.png)
+![Verificação - Repositório Online]**Imagem do resultado:**
+  <img src="./imagens/verificacao-repositorio.png" width="500" alt="Verificação Repositório Online GitHub">
+
 
 ---
 
