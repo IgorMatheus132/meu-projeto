@@ -63,7 +63,7 @@ Antes de iniciar, verifique se os seguintes requisitos foram atendidos:
 ![GitHub Homepage](https://github.com/images/modules/logos_page/GitHub-Mark.png)
 
 **Imagem do resultado:**
-![Passo 1 - Homepage GitHub](./imagens/Passo1-homepage.png)
+![Passo 1 - Homepage GitHub](<img src="./imagens/Passo1-homepage.png" width="600" alt="descrição)
 
 ---
 
